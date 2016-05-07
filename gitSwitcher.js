@@ -1,9 +1,9 @@
 	
-var theWeek = 'Tuesday';
+var theWeek = prompt('So what is your favorite day of the week?');
 
 switch(theWeek) {
 	case 'Monday':
-		console.log('Fu**ing Mondays');
+		console.log('Fu**ing Mondays!');
 		break;
 	case 'Tuesday':
 		console.log('Taco Tuesdays');
