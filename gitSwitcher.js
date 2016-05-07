@@ -6,10 +6,10 @@ switch(theWeek) {
 		console.log('Fu**ing Mondays');
 		break;
 	case 'Tuesday':
-		console.log('Toking Tuesdays');
+		console.log('Taco Tuesdays');
 		break;
 	case 'Wednesday':
-		console.log('Wanking Wednesdays');
+		console.log('W**king Wednesdays');
 		break;
 	case 'Thursday':
 		console.log('Thirsty Thursdays');
